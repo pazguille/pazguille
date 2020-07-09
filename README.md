@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**pazguille/pazguille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a proactive and creative front-end developer. I keep a close eye on front-end development, web standards and web performance.
 
-Here are some ideas to get you started:
+I’m currently leading the Front End Architecture Team who builds the Mercado Libre's platform for building universal applications with React and Node.js. So, I work closely with our front end engineers and UI designers to make sure our web applications are built consistently across the whole company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐦 [Twitter](https://twitter.com/pazguille)
+- 📝 [Blog](https://blog.pazguille.me/)
+- 🎙️ [Podcast](https://anchor.fm/condetodo)
+- 📣 [Talks](https://speakerdeck.com/pazguille)
+- 💼 [Linkedin](https://www.linkedin.com/in/pazguillermo)
+- 📫 [Contact me](mailto:guille87paz@gmail.com)
+- 💬 [Ask me anything](https://curiouscat.me/pazguille)
+
