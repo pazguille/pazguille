@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 👨‍💻
 
 I'm a proactive and creative front-end developer. I keep a close eye on front-end development, web standards and web performance.
 
