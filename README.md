@@ -10,5 +10,4 @@ I’m currently leading the Front End Architecture Team who builds the Mercado L
 - 📣 &nbsp;[Talks](https://speakerdeck.com/pazguille)
 - 💼 &nbsp;[Linkedin](https://www.linkedin.com/in/pazguillermo)
 - 📫 &nbsp;[Contact me](mailto:guille87paz@gmail.com)
-- 💬 &nbsp;[Ask me anything](https://curiouscat.me/pazguille)
 
