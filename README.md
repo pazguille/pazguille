@@ -26,6 +26,6 @@ I’m currently leading the Frontend Platform Team who builds the Mercado Libre'
 
 ### 💸 You can help me by Donating
 [![Cafecito](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/pazguille)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pazguille) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/pazguille) 
 
   
