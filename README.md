@@ -24,7 +24,7 @@ I’m currently leading the Frontend Platform Team who builds the Mercado Libre'
 ---
 ![](https://komarev.com/ghpvc/?username=pazguille&label=Visitors+Count&color=brightgreen)
 
-### 💸 You can help me by Donating
+### 💸 You can help me by donating
 [![Cafecito](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/pazguille)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/pazguille) 
 
