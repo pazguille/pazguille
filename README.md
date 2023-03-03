@@ -8,10 +8,8 @@ Currently, I work as Principal Engineer at Mercado Libre, where I'm part of the 
 
 ### 🌐 Socials
 
-- 🐦 &nbsp;[Twitter](https://twitter.com/pazguille)
 - 📝 &nbsp;[Blog](https://blog.pazguille.me/)
-- 🎙️ &nbsp;[Podcast](https://anchor.fm/condetodo)
-- 📣 &nbsp;[Talks](https://speakerdeck.com/pazguille)
+- 🐦 &nbsp;[Twitter](https://twitter.com/pazguille)
 - 💼 &nbsp;[Linkedin](https://www.linkedin.com/in/pazguille)
 - 📫 &nbsp;[Contact me](mailto:guille87paz@gmail.com)
 
