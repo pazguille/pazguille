@@ -1,8 +1,10 @@
-## Hi there 👋 👨‍💻
+## Hello! 👋  👨‍💻
 
-I'm a proactive and creative frontend developer. I keep a close eye on frontend development, web standards and web performance.
+I'm a frontend developer with a creative vision and a great passion for technology.
 
-I’m currently leading the Frontend Platform Team who builds the Mercado Libre's platform for building universal applications with React and Node.js. So, I work closely with our frontend engineers and UI designers to make sure our web applications are built consistently across the whole company.
+I love and keep close track of frontend trends, web standards, web performance, and digital accessibility.
+
+Currently, I work as Principal Engineer at Mercado Libre, where I'm part of the team building the frontend platform used company-wide to create applications with React and Node.js.
 
 ### 🌐 Socials
 
@@ -10,7 +12,7 @@ I’m currently leading the Frontend Platform Team who builds the Mercado Libre'
 - 📝 &nbsp;[Blog](https://blog.pazguille.me/)
 - 🎙️ &nbsp;[Podcast](https://anchor.fm/condetodo)
 - 📣 &nbsp;[Talks](https://speakerdeck.com/pazguille)
-- 💼 &nbsp;[Linkedin](https://www.linkedin.com/in/pazguillermo)
+- 💼 &nbsp;[Linkedin](https://www.linkedin.com/in/pazguille)
 - 📫 &nbsp;[Contact me](mailto:guille87paz@gmail.com)
 
 ### 📊 GitHub Stats
